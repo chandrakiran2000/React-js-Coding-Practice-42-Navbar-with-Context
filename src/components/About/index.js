@@ -23,7 +23,7 @@ const About = () => (
           <Navbar />
           <div className="image-card">
             <img className="image-link " src={aboutImg} alt="about" />
-            <h1 className={`text ${bgColor}`}>theme</h1>
+            <h1 className={`text ${bgColor}`}>About</h1>
           </div>
         </div>
       )
